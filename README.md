@@ -1,5 +1,5 @@
 # mywebsite
-Personal Portfolio (website)
+**Personal Portfolio (website)**
 
-**In progress**
-Currently building a personal portfolio to host all my projects and to link to my github page.
+Status: in progress    
+Focus: Currently building a personal portfolio to host all my projects and to link to my GitHub page.
